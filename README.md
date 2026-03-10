@@ -1,5 +1,5 @@
 <p align="center">
-    <iframe width="800" height="450" src="https://youtu.be/ik8bhEu4Les"> </iframe>
+    <img src="https://drive.google.com/file/d/1nv1QSeQDYgaUxPKVw1qQ-YfqcOt7sx78/view?usp=drive_link">
 </p>
 
 <h1 align="center">Hi 👋, I'm Kenish Hirpara</h1>
