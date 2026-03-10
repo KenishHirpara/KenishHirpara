@@ -92,9 +92,6 @@ My journey is driven by a constant desire to learn `New Technologies` and solve 
   <img src="https://komarev.com/ghpvc/?username=KenishHirpara&color=blue&style=flat-square&label=PROFILE+VIEWS"/>
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=120&section=footer"/>
-</p>
 ---
 
 ## 👀 Profile Visitors
