@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Kenish Hirpara Banner">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Kenish Hirpara</h1>
 <h3 align="center">Full Stack Developer | Computer Science Student</h3>
