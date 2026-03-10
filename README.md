@@ -16,16 +16,18 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-555555?style=for-the-badge&logo=linkedin"></a><a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/CONNECT-blue?style=for-the-badge"></a>
-  <a href="YOUR_INSTA_URL"><img src="https://img.shields.io/badge/INSTAGRAM-555555?style=for-the-badge&logo=instagram"></a><a href="YOUR_INSTA_URL"><img src="https://img.shields.io/badge/FOLLOW-e4405f?style=for-the-badge"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-555555?style=for-the-badge&logo=gmail"></a><a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/CONTACT-red?style=for-the-badge"></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge&logo=google-chrome"></a><a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/VISIT-blueviolet?style=for-the-badge"></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-555555?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/CONNECT-blue?style=for-the-badge"></a>
+  <a href="YOUR_INSTA_URL"><img src="https://img.shields.io/badge/INSTAGRAM-555555?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="YOUR_INSTA_URL"><img src="https://img.shields.io/badge/FOLLOW-e4405f?style=for-the-badge"></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/CONTACT-red?style=for-the-badge"></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge&logo=google-chrome&logoColor=white"></a><a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/VISIT-blueviolet?style=for-the-badge"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-555555?style=for-the-badge"><img src="https://img.shields.io/badge/300-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/FOLLOWERS-555555?style=for-the-badge"><img src="https://img.shields.io/badge/6-ff69b4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/STARS-555555?style=for-the-badge"><img src="https://img.shields.io/badge/4-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-555555?style=for-the-badge"><img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.github.io&style=for-the-badge&color=blueviolet">
+  
+  <img src="https://img.shields.io/badge/FOLLOWERS-555555?style=for-the-badge"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&logoColor=white&label=%20&color=ff69b4">
+  
+  <img src="https://img.shields.io/badge/STARS-555555?style=for-the-badge"><img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&logoColor=white&label=%20&color=yellow&labelColor=yellow">
 </p>
 
 ---
