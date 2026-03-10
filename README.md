@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Computer Science Student | Full Stack Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Kenish+Hirpara;Java+Developer;Full+Stack+Web+Developer;React+Node+MongoDB;Building+Cool+Projects+🚀">
+<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Kenish+Hirpara;Full+Stack+Developer;Java+%7C+Python+%7C+React;Building+Cool+Projects+🚀">
 </p>
 
 ---
@@ -12,16 +12,18 @@
 ### 👨‍💻 About Me
 
 * 🎓 Computer Science Student
-* 💻 Passionate about software development
+* 💻 Passionate about Software Development
 * 🚀 Learning Cloud & Backend Development
-* 🔭 Working on Web Development Projects
+* 🔭 Currently working on Web Projects
 
 ---
 
 ### 🚀 Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=java,python,cpp,r,js,react,nodejs,express,mongodb,mysql,postgres,git,github,aws,vscode,postman"/>
+
 </p>
 
 ---
@@ -29,8 +31,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=KenishHirpara&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KenishHirpara&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -38,7 +43,9 @@
 ### 📈 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenishHirpara&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -46,11 +53,17 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=KenishHirpara&theme=tokyonight&row=1&column=6"/>
+
 </p>
 
 ---
 
+### 👀 Profile Visitors
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue"/>
+
+<img src="https://komarev.com/ghpvc/?username=KenishHirpara&color=blue"/>
+
 </p>
