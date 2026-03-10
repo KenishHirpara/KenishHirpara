@@ -26,9 +26,9 @@
   <img src="https://img.shields.io/badge/STARS-555555?style=for-the-badge"><img src="https://img.shields.io/github/stars/KenishHirpara?style=for-the-badge&logo=github&label=%20&color=yellow&labelColor=yellow">
 </p>
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Arturi0/github-animated-lines/master/lines/rainbow.gif" width="100%">
-</div>
+</p>
 
 ## 👨‍💻 About Me
 
