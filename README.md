@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner1.png" alt="Kenish Hirpara Banner">
+  <img src="banner2.mp4" alt="Kenish Hirpara Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Kenish Hirpara</h1>
