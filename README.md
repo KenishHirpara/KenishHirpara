@@ -73,23 +73,6 @@ My journey is driven by a constant desire to learn `New Technologies` and solve 
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KenishHirpara&theme=tokyonight&no-frame=false&margin-w=15&v=2" alt="Trophies" />
-</p>
-
----
-
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KenishHirpara&theme=tokyonight&no-frame=false&margin-w=15&column=7" alt="Kenish Hirpara Trophies" />
-</p>
-
-
-
----
-
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/KenishHirpara/KenishHirpara/output/github-contribution-grid-snake.svg" />
