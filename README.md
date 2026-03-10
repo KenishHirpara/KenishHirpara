@@ -63,3 +63,12 @@
 <img src="https://komarev.com/ghpvc/?username=KenishHirpara&color=blue"/>
 
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/KenishHirpara/KenishHirpara/blob/output/github-contribution-grid-snake.svg)
+
+---
+
