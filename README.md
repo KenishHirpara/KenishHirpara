@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Kenish%20Hirpara&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=250&section=header&text=Kenish%20Hirpara&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Kenish Hirpara</h1>
@@ -65,35 +65,9 @@
 
 ---
 
-## 📊 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KenishHirpara&theme=tokyo-night"/>
-
----
-
 ## 💡 Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
----
-
-## 🎧 Spotify
-
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31wxyz&cover_image=true&theme=novatorem"/>
-
----
-
-## 🚀 Featured Projects
-
-⭐ DrivePulse – Smart driving assistant system
-⭐ Real Estate Website – Property listing platform
-⭐ Obstacle Avoiding Robot – Arduino robotics project
-
----
-
-## 🧊 3D Contribution Graph
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
@@ -130,5 +104,5 @@
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=120&section=footer"/>
 </p>
