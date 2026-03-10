@@ -15,11 +15,11 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Illustration">
 
-I am a Computer Science student with a deep passion for software development and building high-scalability systems. Currently, I am focused on creating real-world applications and mastering cloud-native backend architectures. 
+I am a `Computer Science Student` with a deep passion for **Software Development** and building `High-Scalability Systems`. Currently, I am focused on creating **Real-World Applications** and mastering `Cloud-Native Backend Architectures`. 
 
-My journey is driven by a constant desire to learn new technologies and solve complex problems through clean, efficient code. When I'm not architecting systems or debugging, you can usually find me exploring the latest in tech—turning plenty of coffee into functional, innovative code along the way.
+My journey is driven by a constant desire to learn `New Technologies` and solve complex problems through **Clean, Efficient Code**. When I'm not architecting systems or debugging, you can usually find me exploring the latest in tech—turning plenty of **Coffee** into `Functional, Innovative Code` along the way.
 
-<br clear="all" />
+<br clear="all" />/>
 
 ---
 
