@@ -43,9 +43,7 @@
 ### 📈 Top Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenishHirpara&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenishHirpara&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -53,9 +51,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KenishHirpara&theme=tokyonight&row=1&column=6"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=KenishHirpara&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
