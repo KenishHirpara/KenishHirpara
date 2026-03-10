@@ -23,7 +23,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/FOLLOWERS-555555?style=for-the-badge"><img src="https://img.shields.io/github/followers/KenishHirpara?style=for-the-badge&logo=github&label=%20&color=ff69b4">
-  <br>
   <img src="https://img.shields.io/badge/STARS-555555?style=for-the-badge"><img src="https://img.shields.io/github/stars/KenishHirpara?style=for-the-badge&logo=github&label=%20&color=yellow&labelColor=yellow">
 </p>
 
