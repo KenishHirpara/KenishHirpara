@@ -65,11 +65,18 @@ My journey is driven by a constant desire to learn `New Technologies` and solve 
 
 ---
 
+
 ## 💡 Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteCategory=programming&border=true&cacheSeconds=0">
-</p>
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteCategory=programming"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 ---
 
