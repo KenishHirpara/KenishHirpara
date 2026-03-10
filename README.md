@@ -66,20 +66,14 @@ My journey is driven by a constant desire to learn `New Technologies` and solve 
 ---
 
 ## 📈 GitHub Analytics
-<table border="0" align="center">
-  <tr>
-    <td width="33.33%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=KenishHirpara&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-    </td>
-    <td width="33.33%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenishHirpara&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-    </td>
-    <td width="33.33%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KenishHirpara&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="430px" src="https://github-readme-stats.vercel.app/api?username=KenishHirpara&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="430px" src="https://github-readme-streak-stats.herokuapp.com/?user=KenishHirpara&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
+<p align="center">
+  <img width="870px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KenishHirpara&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 ---
 
 ## 🏆 GitHub Trophies
