@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=250&section=header&text=Kenish%20Hirpara&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+  <img src="banner.png" alt="Kenish Hirpara Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Kenish Hirpara</h1>
