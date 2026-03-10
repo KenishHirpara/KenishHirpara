@@ -13,13 +13,22 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Illustration">
-
-🎓 **Computer Science Student** 💻 **Passionate about Software Development** 🚀 **Building Real World Applications** 🌱 **Learning Cloud & Backend Development** ⚡ **Fun fact:** I turn coffee into code ☕  
-  
-I am a dedicated developer focused on creating efficient, scalable solutions. My journey involves mastering full-stack technologies and exploring the depths of computer science to build meaningful projects that solve real-world problems.
-
-<br clear="all" />
+<table border="0">
+  <tr>
+    <td>
+      <ul>
+        <li>🎓 <b>Education:</b> Computer Science Student</li>
+        <li>💻 <b>Passion:</b> Software Development & Scalable Systems</li>
+        <li>🚀 <b>Goals:</b> Building Real World Applications</li>
+        <li>🌱 <b>Learning:</b> Cloud Computing & Backend Architecture</li>
+        <li>⚡ <b>Fun fact:</b> I turn coffee into code ☕</li>
+      </ul>
+    </td>
+    <td width="350px">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Illustration">
+    </td>
+  </tr>
+</table>
 
 ---
 
