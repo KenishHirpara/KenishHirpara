@@ -9,7 +9,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=BC13FE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Python+%7C+React;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
 </p>
 
----
 
 
 <p align="center">
