@@ -10,22 +10,22 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEVELOPMENT-purple?style=for-the-badge" alt="Focus">
-  <img src="https://img.shields.io/badge/LIVES-INDIA%20IN-green?style=for-the-badge" alt="Location">
-  <img src="https://img.shields.io/badge/SPEAKS-JAVASCRIPT%20|%20PYTHON%20|%20TYPESCRIPT-blue?style=for-the-badge" alt="Skills">
+  <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEVELOPMENT-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LIVES-INDIA%20IN-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SPEAKS-JAVASCRIPT%20|%20PYTHON%20|%20TYPESCRIPT-blue?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-e4405f?style=for-the-badge&logo=instagram" alt="Instagram"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-blueviolet?style=for-the-badge&logo=google-chrome" alt="Portfolio"></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-e4405f?style=for-the-badge&logo=instagram" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-blueviolet?style=for-the-badge&logo=google-chrome" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-300-blueviolet?style=for-the-badge" alt="Views">
-  <img src="https://img.shields.io/badge/Followers-6-ff69b4?style=for-the-badge" alt="Followers">
-  <img src="https://img.shields.io/badge/Stars-4-yellow?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/badge/Profile%20Views-300-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Followers-6-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stars-4-yellow?style=for-the-badge" />
 </p>
 
 ---
