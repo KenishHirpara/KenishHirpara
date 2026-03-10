@@ -44,7 +44,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KenishHirpara&theme=tokyonight&no-frame=true&margin-w=15&cache_seconds=1800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KenishHirpara&theme=tokyonight&no-frame=false&margin-w=15&column=7" alt="Kenish Hirpara Trophies" />
 </p>
 
 
