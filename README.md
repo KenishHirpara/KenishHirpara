@@ -19,7 +19,7 @@ I am a `Computer Science Student` with a deep passion for **Software Development
 
 My journey is driven by a constant desire to learn `New Technologies` and solve complex problems through **Clean, Efficient Code**. When I'm not architecting systems or debugging, you can usually find me exploring the latest in tech—turning plenty of **Coffee** into `Functional, Innovative Code` along the way.
 
-<br clear="all" />/>
+<br clear="all" />
 
 ---
 
