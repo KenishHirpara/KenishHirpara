@@ -82,10 +82,18 @@ My journey is driven by a constant desire to learn `New Technologies` and solve 
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_USERNAME_HERE"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://instagram.com/YOUR_USERNAME_HERE"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://youtube.com"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KenishHirpara&color=blue&style=flat-square&label=PROFILE+VIEWS"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=120&section=footer"/>
+</p>
 ---
 
 ## 👀 Profile Visitors
