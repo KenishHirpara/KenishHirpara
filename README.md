@@ -10,26 +10,26 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/FOCUS-555555?style=for-the-badge"><img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPMENT-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/LIVES-555555?style=for-the-badge"><img src="https://img.shields.io/badge/INDIA%20IN-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/SPEAKS-555555?style=for-the-badge"><img src="https://img.shields.io/badge/JAVASCRIPT%20|%20PYTHON%20|%20TYPESCRIPT-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FOCUS-555555?style=for-the-badge"><img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPMENT-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LIVES-555555?style=for-the-badge"><img src="https://img.shields.io/badge/INDIA%20IN-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SPEAKS-555555?style=for-the-badge"><img src="https://img.shields.io/badge/JAVASCRIPT%20|%20PYTHON%20|%20TYPESCRIPT-blue?style=for-the-badge">
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-555555?style=for-the-badge&logo=linkedin"></a><a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/CONNECT-blue?style=for-the-badge"></a>
-<a href="YOUR_INSTA_URL"><img src="https://img.shields.io/badge/INSTAGRAM-555555?style=for-the-badge&logo=instagram"></a><a href="YOUR_INSTA_URL"><img src="https://img.shields.io/badge/FOLLOW-e4405f?style=for-the-badge"></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-555555?style=for-the-badge&logo=gmail"></a><a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/CONTACT-red?style=for-the-badge"></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge&logo=google-chrome"></a><a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/VISIT-blueviolet?style=for-the-badge"></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-555555?style=for-the-badge&logo=linkedin"></a><a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/CONNECT-blue?style=for-the-badge"></a>
+  <a href="YOUR_INSTA_URL"><img src="https://img.shields.io/badge/INSTAGRAM-555555?style=for-the-badge&logo=instagram"></a><a href="YOUR_INSTA_URL"><img src="https://img.shields.io/badge/FOLLOW-e4405f?style=for-the-badge"></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-555555?style=for-the-badge&logo=gmail"></a><a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/CONTACT-red?style=for-the-badge"></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge&logo=google-chrome"></a><a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/VISIT-blueviolet?style=for-the-badge"></a>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PROFILE%20VIEWS-555555?style=for-the-badge"><img src="https://visitor-badge.laobi.icu/badge?page_id=KenishHirpara.github.io&style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-555555?style=for-the-badge"><img src="https://visitor-badge.laobi.icu/badge?page_id=KenishHirpara.github.io&style=for-the-badge&color=blueviolet">
 </p>
 
 <div align="left">
-<img src="https://img.shields.io/badge/FOLLOWERS-555555?style=for-the-badge"><img src="https://img.shields.io/github/followers/KenishHirpara?style=for-the-badge&logo=github&label=%20&color=ff69b4">
-<br>
-<img src="https://img.shields.io/badge/STARS-555555?style=for-the-badge"><img src="https://img.shields.io/github/stars/KenishHirpara?style=for-the-badge&logo=github&label=%20&color=yellow&labelColor=yellow">
+  <img src="https://img.shields.io/badge/FOLLOWERS-555555?style=for-the-badge"><img src="https://img.shields.io/github/followers/KenishHirpara?style=for-the-badge&logo=github&label=%20&color=ff69b4">
+  <br>
+  <img src="https://img.shields.io/badge/STARS-555555?style=for-the-badge"><img src="https://img.shields.io/github/stars/KenishHirpara?style=for-the-badge&logo=github&label=%20&color=yellow&labelColor=yellow">
 </div>
 
 ---
