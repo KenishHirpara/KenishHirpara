@@ -19,16 +19,13 @@
 - 🚀 **Goals:** Building Real World Applications
 - 🌱 **Learning:** Cloud Computing & Backend Architecture
 - ⚡ **Fun fact:** I turn coffee into code ☕
-<br clear="all" />
 
----
+<br clear="all" /> ---
 
-<h2 align="center">🛠 Tech Stack</h2>
+## 🛠 Tech Stack
 
 <p align="center"><strong>🌐 Languages</strong></p>
 <p align="center">
-
-<h2>🛠 Tech Stack</h2>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -54,16 +51,6 @@
   <img src="https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-
-<p align="center"><strong>🔧 Tools & Technologies</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-</p>
-
 
 ---
 
