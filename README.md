@@ -88,10 +88,6 @@ My journey is driven by a constant desire to learn `New Technologies` and solve 
   <a href="https://discord.com"><img src="https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KenishHirpara&color=blue&style=flat-square&label=PROFILE+VIEWS"/>
-</p>
-
 ---
 
 ## 👀 Profile Visitors
