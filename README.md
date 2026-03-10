@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100%" src="banner1.png">
+    <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZhdXljbjkyNHFkNjJmdDF2aXM1eG4xNGV4NWdlNnlwcmNtejZqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8NkpUUfYQUyWJuTHK7/giphy.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Kenish Hirpara</h1>
