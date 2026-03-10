@@ -1,25 +1,25 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Kenish%20Hirpara&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Kenish%20Hirpara&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Kenish Hirpara</h1>
 <h3 align="center">Full Stack Developer | Computer Science Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Python+%7C+React;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Python+%7C+React;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 👨‍💻 About Me
 
 🎓 Computer Science Student
 💻 Passionate about Software Development
-🚀 Building Real-World Projects
-🌱 Currently learning Cloud & Backend Development
-⚡ Fun fact: I turn coffee into code ☕
+🚀 Building Real World Applications
+🌱 Learning Cloud & Backend Development
+⚡ Fun fact: I turn coffee into code
 
 ---
 
@@ -55,9 +55,31 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KenishHirpara&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KenishHirpara&theme=tokyo-night"/>
+
+---
+
 ## 💡 Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
+## 🎧 Spotify
+
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31wxyz&cover_image=true&theme=novatorem"/>
 
 ---
 
@@ -66,6 +88,18 @@
 ⭐ DrivePulse – Smart driving assistant system
 ⭐ Real Estate Website – Property listing platform
 ⭐ Obstacle Avoiding Robot – Arduino robotics project
+
+---
+
+## 🧊 3D Contribution Graph
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/KenishHirpara/KenishHirpara/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -85,11 +119,15 @@
 
 ---
 
+## 👀 Profile Visitors
+
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=KenishHirpara&color=blue"/>
 
 </p>
+
+---
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
