@@ -78,7 +78,6 @@ My journey is driven by a constant desire to learn `New Technologies` and solve 
 
 ## 📈 GitHub Analytics
 <p align="center">
-  <img width="700px" src="https://github-readme-stats.vercel.app/api?username=KenishHirpara&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <img width="700px" src="https://github-readme-streak-stats.herokuapp.com/?user=KenishHirpara&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
