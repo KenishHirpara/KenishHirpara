@@ -64,6 +64,12 @@ My journey is driven by a constant desire to learn `New Technologies` and solve 
 </p>
 
 ---
+<h2 align="center">💭 Dev Wisdom</h2>
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quoteCategory=programming">
+</p>
+---
 
 ## 📈 GitHub Analytics
 <p align="center">
