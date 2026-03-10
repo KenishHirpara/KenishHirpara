@@ -43,7 +43,7 @@
 ### 📈 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenishHirpara&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenishHirpara&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KenishHirpara&theme=tokyonight&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=KenishHirpara&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/KenishHirpara/KenishHirpara/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/KenishHirpara/KenishHirpara/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
