@@ -29,7 +29,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Arturi0/github-animated-lines/master/lines/rainbow.gif" width="100%">
 </div>
----
 
 ## 👨‍💻 About Me
 
