@@ -11,9 +11,6 @@
 
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Arturi0/github-animated-lines/master/lines/rainbow.gif" width="100%">
-</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/FOCUS-555555?style=for-the-badge">
