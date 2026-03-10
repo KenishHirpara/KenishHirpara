@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://drive.google.com/file/d/1nv1QSeQDYgaUxPKVw1qQ-YfqcOt7sx78/view?usp=drive_link">
+    <img width="100%" src="banner2.png">
 </p>
 
 <h1 align="center">Hi 👋, I'm Kenish Hirpara</h1>
