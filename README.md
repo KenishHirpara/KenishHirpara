@@ -23,11 +23,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-555555?style=for-the-badge"><img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.github.io&style=for-the-badge&color=blueviolet">
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-555555?style=for-the-badge"><img src="https://visitor-badge.laobi.icu/badge?page_id=KenishHirpara.github.io&style=for-the-badge&color=blueviolet">
   
-  <img src="https://img.shields.io/badge/FOLLOWERS-555555?style=for-the-badge"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&logoColor=white&label=%20&color=ff69b4">
+  <img src="https://img.shields.io/badge/FOLLOWERS-555555?style=for-the-badge"><img src="https://img.shields.io/github/followers/KenishHirpara?style=for-the-badge&logo=github&logoColor=white&label=%20&color=ff69b4">
   
-  <img src="https://img.shields.io/badge/STARS-555555?style=for-the-badge"><img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&logoColor=white&label=%20&color=yellow&labelColor=yellow">
+  <img src="https://img.shields.io/badge/STARS-555555?style=for-the-badge"><img src="https://img.shields.io/github/stars/KenishHirpara?style=for-the-badge&logo=github&logoColor=white&label=%20&color=yellow&labelColor=yellow">
 </p>
 
 ---
