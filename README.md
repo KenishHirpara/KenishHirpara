@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=BC13FE&height=3"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284087-4d4c98db-48c6-4f7f-9d72-3a10f6d3c7e2.gif">
 </p>
 
 ## 👨‍💻 About Me
@@ -73,7 +73,7 @@ When I'm not architecting systems or debugging, you can usually find me explorin
 <br clear="all" />
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=BC13FE&height=3"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284087-4d4c98db-48c6-4f7f-9d72-3a10f6d3c7e2.gif">
 </p>
 
 ## 🛠 Tech Stack
@@ -129,7 +129,7 @@ When I'm not architecting systems or debugging, you can usually find me explorin
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=BC13FE&height=3"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284087-4d4c98db-48c6-4f7f-9d72-3a10f6d3c7e2.gif">
 </p>
 
 ## 💡 Dev Quote
@@ -139,7 +139,7 @@ When I'm not architecting systems or debugging, you can usually find me explorin
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=BC13FE&height=3"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284087-4d4c98db-48c6-4f7f-9d72-3a10f6d3c7e2.gif">
 </p>
 
 ## 📈 GitHub Analytics
@@ -149,7 +149,7 @@ When I'm not architecting systems or debugging, you can usually find me explorin
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=BC13FE&height=3"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284087-4d4c98db-48c6-4f7f-9d72-3a10f6d3c7e2.gif">
 </p>
 
 ## 🐍 Contribution Snake
@@ -159,7 +159,7 @@ When I'm not architecting systems or debugging, you can usually find me explorin
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=BC13FE&height=3"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284087-4d4c98db-48c6-4f7f-9d72-3a10f6d3c7e2.gif">
 </p>
 
 ## 🌐 Connect With Me
@@ -181,7 +181,7 @@ When I'm not architecting systems or debugging, you can usually find me explorin
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=BC13FE&height=3"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284087-4d4c98db-48c6-4f7f-9d72-3a10f6d3c7e2.gif">
 </p>
 
 ## 👀 Profile Visitors
