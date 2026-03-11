@@ -9,15 +9,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=BC13FE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Python+%7C+React;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
 </p>
 
-
-
 <p align="center">
 <img src="https://img.shields.io/badge/FOCUS-555555?style=for-the-badge">
 <img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPMENT-purple?style=for-the-badge">
-
 <img src="https://img.shields.io/badge/LIVES-555555?style=for-the-badge">
 <img src="https://img.shields.io/badge/INDIA%20IN-green?style=for-the-badge">
-
 <img src="https://img.shields.io/badge/SPEAKS-555555?style=for-the-badge">
 <img src="https://img.shields.io/badge/JAVASCRIPT%20|%20PYTHON%20|%20TYPESCRIPT-blue?style=for-the-badge">
 </p>
@@ -51,19 +47,15 @@
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/FOLLOWERS-555555?style=for-the-badge">
 <img src="https://img.shields.io/github/followers/KenishHirpara?style=for-the-badge&logo=github&label=%20&color=ff69b4">
 
 <img src="https://img.shields.io/badge/STARS-555555?style=for-the-badge">
 <img src="https://img.shields.io/github/stars/KenishHirpara?style=for-the-badge&logo=github&label=%20&color=yellow&labelColor=yellow">
-
 </p>
 
----
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/Arturi0/github-animated-lines/master/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=BC13FE&height=3"/>
 </p>
 
 ## 👨‍💻 About Me
@@ -80,10 +72,8 @@ When I'm not architecting systems or debugging, you can usually find me explorin
 
 <br clear="all" />
 
----
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/Arturi0/github-animated-lines/master/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=BC13FE&height=3"/>
 </p>
 
 ## 🛠 Tech Stack
@@ -138,10 +128,8 @@ When I'm not architecting systems or debugging, you can usually find me explorin
 
 </p>
 
----
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/Arturi0/github-animated-lines/master/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=BC13FE&height=3"/>
 </p>
 
 ## 💡 Dev Quote
@@ -150,22 +138,18 @@ When I'm not architecting systems or debugging, you can usually find me explorin
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteCategory=programming"/>
 </p>
 
----
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/Arturi0/github-animated-lines/master/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=BC13FE&height=3"/>
 </p>
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img width="700px" src="https://github-readme-streak-stats.herokuapp.com/?user=KenishHirpara&theme=tokyonight&hide_border=true&cache_seconds=1800">
+<img width="700px" src="https://github-readme-streak-stats.herokuapp.com/?user=KenishHirpara&theme=tokyonight&hide_border=true">
 </p>
 
----
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/Arturi0/github-animated-lines/master/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=BC13FE&height=3"/>
 </p>
 
 ## 🐍 Contribution Snake
@@ -174,10 +158,8 @@ When I'm not architecting systems or debugging, you can usually find me explorin
 <img src="https://raw.githubusercontent.com/KenishHirpara/KenishHirpara/output/github-contribution-grid-snake.svg">
 </p>
 
----
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/Arturi0/github-animated-lines/master/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=BC13FE&height=3"/>
 </p>
 
 ## 🌐 Connect With Me
@@ -198,7 +180,9 @@ When I'm not architecting systems or debugging, you can usually find me explorin
 
 </p>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=BC13FE&height=3"/>
+</p>
 
 ## 👀 Profile Visitors
 
