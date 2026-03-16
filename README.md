@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/LINKEDIN-555555?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/kenishhirpara">
 <img src="https://img.shields.io/badge/CONNECT-blue?style=for-the-badge">
 </a>
 
