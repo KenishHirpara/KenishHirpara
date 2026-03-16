@@ -166,7 +166,7 @@ When I'm not architecting systems or debugging, you can usually find me explorin
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/kenish-hirpara-85030b259">
+<a href="https://www.linkedin.com/in/kenishhirpara">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
